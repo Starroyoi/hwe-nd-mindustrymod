@@ -1,0 +1,11 @@
+type: OverflowGate
+name: "Rewon Underflow Gate"
+description: "A underflow gate that outputs to the sides until the sides are
+filled, then it will output to the front, uses cogs to function, due to 
+complexity being equal with the Overflow Gate, it has the same speed."
+speed: 2.0
+invert: true
+requirements: [
+rewon/2
+]
+category: distribution

@@ -1,0 +1,4 @@
+type: StaticWall
+large: exedite-coldsblock-wall-large
+variants: 2
+variantRegions: [exedite-coldsblock-wall1, exedite-coldsblock-wall2]

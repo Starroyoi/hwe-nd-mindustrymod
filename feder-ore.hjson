@@ -1,0 +1,5 @@
+type: OreBlock
+wallOre: true
+oreDefault: true
+itemDrop: feder
+variants: 1

@@ -1,0 +1,11 @@
+type: ItemBridge
+health: 250
+transportTime: 2
+name: "Rewon Bridge"
+description: "An equally fast bridge that uses Cogs, its range is somewhat far too."
+requirements: [
+rewon/4 
+]
+catgeory: distribution
+hasPower: false
+range: 6

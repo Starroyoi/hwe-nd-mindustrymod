@@ -1,0 +1,9 @@
+type: OverflowGate
+name: "Rewon Overflow Gate"
+description: "An overflow block, once too much items are filled infront of it, it outputs items sideways, 
+uses a unique cog combo in order to do it, though due to its complexity, it slows down the Gate."
+speed: 2.0
+requirements: [
+rewon/2
+]
+category: distribution

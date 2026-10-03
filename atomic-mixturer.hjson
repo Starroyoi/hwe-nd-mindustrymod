@@ -1,0 +1,26 @@
+type: GenericCrafter
+consumes: {
+items: [
+rewon/5
+feder/5
+]
+}
+ambientSound:pulverizeMedium
+itemCapacity:20
+craftTime:50
+outputItem: redecon/1
+size: 2
+name: "Atomic Mixturer"
+description: "Turns Rewon and Feder into Redecon via atomic splicing,
+an unintended side-effect is that an innerpart of Rewon's atomic structure
+covers Redecon red, and also complicates the atomic structure."
+health: 150
+craftEffect:pulverize
+category: crafting
+buildTime: 100
+requirements: [
+rewon/50
+feder/25
+]
+drawer: DrawRegion
+suffix: -nexumdiscuntioisconnectedtohweaswellastrunanceoftrias

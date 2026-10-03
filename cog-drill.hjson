@@ -1,0 +1,11 @@
+type: Drill
+name: "Cog Drill"
+description: "A drill that uses cogs to both operate powerlessly and harvest the groud ores."
+size: 2
+category: production
+tier: 1
+drillTime: 200
+itemCapacity: 10
+requirements: [
+rewon/5
+]

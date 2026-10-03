@@ -1,0 +1,10 @@
+type: DuctRouter
+health: 150
+speed: 2
+name: "Rewon Router"
+description: "A router made from Rewon and uses Cogs to function."
+requirements: [
+rewon/2
+]
+category: distribution
+size: 1

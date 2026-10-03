@@ -1,0 +1,10 @@
+type: Conveyor
+health: 250
+speed: 0.10
+name: "Rewon Conveyor"
+description: "A surpisingly fast conveyor that uses Cogs to function, at the corners though a tower is made so as to keep the cogs moving."
+requirements: [
+rewon/2
+]
+catgeory: distribution
+bridgeReplacement: rewon-bridge
