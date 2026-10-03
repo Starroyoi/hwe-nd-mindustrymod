@@ -1,0 +1,23 @@
+name: "HWE-ND"
+displayName: "Howling Winds Of Exedite"
+author: "Starroyo"
+description: "A expedition to outer space has resulted
+in a catastrophic accident, rendering all previous technology lost, in your local part
+of the stars, you are too far to start communications with the two planets you have recently
+conquered, and your core, trashed and destroyed, repaired only by the scraps of your
+former resources, is now wholly unrecognizable compared to its original form.
+
+Explore the new planet Exedite which, is very simple and basic
+for a mod, currently Exedite has not been implemented yet, technologies
+can be only found in Sandbox.
+
+Offshoot of another mod i made for a different game, known as
+Nexum Disicuntio, this doesnt not take place in Nexun Disicuntio's timeline
+however, though mentions of it will be present.
+
+Credits to
+Starray / Vack / Starroyo - Creator of the mod."
+version: "1.0"
+minGameVersion: "150.1"
+dependencies: [ ]
+hidden: true
